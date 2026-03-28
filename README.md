@@ -2,73 +2,28 @@
 <!--                    ARYAN0628 — GITHUB PROFILE README               -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<!-- ANIMATED CAPSULE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0f3460&height=200&section=header&text=ARYAN&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=c0caf5&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Explorer&descAlignY=58&descSize=20&descColor=7aa2f7" />
-
-</div>
-
-<!-- STARS ROW 1 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="24" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="18" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="22" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="16" />
-</div>
-
-<br/>
-
 <div align="center">
-
-<!-- PLANET + SATELLITE + ROCKET ROW -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="110" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="60" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" alt="Satellite" width="70" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="65" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="80" />
-
-<br/><br/>
-
+<samp>
+✦ &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·
+</samp>
+</div>
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Aryan0628">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+systems+that+matter+%F0%9F%9A%80;Full-Stack+%C3%97+AI+%C3%97+Geospatial+%C3%97+Civic+Tech;LangGraph+%E2%80%A2+Gemini+%E2%80%A2+MongoDB+Atlas+%E2%80%A2+Earth+Engine;Currently+orbiting%3A+SANKALP+Hackathon+2026+%F0%9F%9B%B0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Thinking+in+systems,+building+in+code+%F0%9F%9A%80;Full-Stack+%C3%97+AI+%C3%97+Distributed+Systems;From+abstraction+to+execution;Clarity+over+complexity+%E2%9A%A1" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <!-- VISITOR BADGE + PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=Aryan0628&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Aryan0628?style=for-the-badge&color=1a1a4e&labelColor=0d0d2b&label=FOLLOWERS&logo=github&logoColor=7aa2f7" />
-
 </div>
 
 ---
-
 <br/>
 
-<!-- ──────────────────── STAR SCATTER ROW ──────────────────── -->
-<div align="center">
-<samp>
-✦ &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·
-</samp>
-</div>
-
-<br/>
 
 <!-- ──────────────────── ABOUT ──────────────────── -->
 
