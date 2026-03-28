@@ -59,36 +59,25 @@
 
 ---
 <br/>
-<!-- ──────────────────── SNAKE ──────────────────── -->
-<div align="center">
-## 🐍 &nbsp; CONSUMING THE GRID
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan0628/Aryan0628/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan0628/Aryan0628/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
-<br/>
+
 <!-- ──────────────────── CONTACT ──────────────────── -->
-
 <div align="center">
 
-##  &nbsp; LET'S CONNECT &nbsp;
-
+##  &nbsp; LET'S CONNECT
 <br/>
-
 <a href="https://github.com/Aryan0628">
-  <img src="https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1a4e" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aryan-gupta-278376313/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d2b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1a4e" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:aryan072806@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d0d2b?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1a4e" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
-&nbsp;
+<br/><br/>
+</div>
 
 <br/><br/>
 
@@ -122,69 +111,3 @@
 </div>
 
 ---
-
-<!-- ════════════════ QUICK SETUP — DELETE BEFORE PUBLISHING ════════════════
-
-REMAINING PLACEHOLDERS:
-   YOUR_LINKEDIN  → your LinkedIn profile handle
-   YOUR_EMAIL     → your email address
-   YOUR_TWITTER   → your Twitter/X handle
-
-3D CONTRIBUTION GRAPH — create .github/workflows/profile-3d.yml:
-
-   name: GitHub-Profile-3D-Contrib
-   on:
-     schedule: [{ cron: "0 18 * * *" }]
-     workflow_dispatch:
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       name: generate-github-profile-3d-contrib
-       steps:
-         - uses: actions/checkout@v3
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-             USERNAME: Aryan0628
-             BACKGROUND_COLOR: "#0d0d2b"
-             SETTING_JSON: |
-               {
-                 "type": "normal",
-                 "utcOffset": 5.5
-               }
-         - uses: crazy-max/ghaction-github-pages@v3
-           with:
-             target_branch: main
-             build_dir: profile-3d-contrib
-             keep_history: true
-             jekyll: false
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   After first run, the image lands at:
-   main/profile-3d-contrib/profile-night-rainbow.svg  ✓ (already linked in README)
-
-SNAKE ANIMATION — create .github/workflows/snake.yml in this repo:
-
-   name: Generate Snake
-   on:
-     schedule: [{ cron: "0 */12 * * *" }]
-     workflow_dispatch:
-   jobs:
-     snake:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: Aryan0628
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-═══════════════════════════════════════════════════════════════════════ -->
