@@ -25,122 +25,24 @@
 <br/>
 
 
-<!-- ──────────────────── ABOUT ──────────────────── -->
+<!-- ──────────────────── 3D GRAPH CONTRIBUTION ──────────────────── -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<br/><br/>
 
-### `> whoami`
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,html,css,tailwind,nodejs,express,mongodb,redis,firebase,fastapi,docker,gcp,postman,git,github&theme=dark&perline=10" />
 
-```yaml
-name        : Aryan
-github      : github.com/Aryan0628
-location    : Prayagraj, India 🇮🇳
-role        : Builder / Full-Stack Engineer
-status      : Orbiting SANKALP Hackathon 2026 🛰️
-team        : Shreyansh · Ishwar · Arushi
-```
+<br/>
 
-```python
-class Aryan:
-    focus     = ["AI Systems", "Civic Tech", "Geospatial", "Real-time Pipelines"]
-    currently = "UrbanFlow  —  AI Civic Intelligence Platform"
-    building  = "GeoScope   —  Women Safety + Deforestation Analytics"
-    stack     = ["LangGraph", "Gemini 2.0", "MongoDB Atlas", "Earth Engine"]
-    principle = "Ship systems, not slides."
-```
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
-<br clear="right"/>
+</div>
 
 ---
-
 <br/>
-
-<!-- ──────────────────── STAR BELT DIVIDER ──────────────────── -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="16" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="14" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="80" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="14" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="16" />
-
-</div>
-
-<br/>
-
-<!-- ──────────────────── FEATURED MISSIONS ──────────────────── -->
-
-<div align="center">
-
-## 🛰️ &nbsp; ACTIVE MISSIONS
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌆 &nbsp; UrbanFlow
-**AI Civic Intelligence Platform**
-
-A full-stack civic OS built to close the gap between citizens, field workers, and city administrators — in real time.
-
-**Architecture highlights:**
-- `LangGraph` parallel fan-out for multi-agent orchestration
-- `Gemini 2.0 Flash` multimodal vision analysis
-- `768-dim` vector profiles via Gemini Embedding-001
-- `MongoDB Atlas` Vector Search + Geohash-7/8 proximity
-- Trust Score Engine with reverse Gaussian decay
-- `Firebase RTDB` + Firestore state machines
-- `RabbitMQ` fire-and-forget async pipelines
-- Sentinel-1 SAR, Sentinel-2 NDVI, TROPOMI via Earth Engine
-
-**Layers:** React Native citizen app · Field worker layer · React.js admin dashboard
-
-![Status](https://img.shields.io/badge/STATUS-LIVE-00ff88?style=flat-square&labelColor=0d0d2b)
-![Hackathon](https://img.shields.io/badge/SANKALP-2026-7aa2f7?style=flat-square&labelColor=0d0d2b)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 &nbsp; GeoScope
-**Women Safety & Deforestation Analytics**
-
-A geospatial intelligence dashboard combining safety heatmaps with satellite-driven environmental monitoring.
-
-**Architecture highlights:**
-- Google Earth Engine + Sentinel-1 SAR analysis
-- NDVI deforestation tracking via Sentinel-2
-- Landsat 8/9 Split-Window thermal algorithm
-- FIRMS VIIRS fire detection integration
-- Women safety incident clustering + analytics
-- Real-time hotspot visualization layer
-
-**Layers:** Analytics dashboard · Satellite data pipeline · Safety intelligence layer
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING-f7768e?style=flat-square&labelColor=0d0d2b)
-![Domain](https://img.shields.io/badge/GEOSPATIAL-AI-7aa2f7?style=flat-square&labelColor=0d0d2b)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <!-- ──────────────────── TECH STACK ──────────────────── -->
 
 <div align="center">
