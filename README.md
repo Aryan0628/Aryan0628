@@ -27,127 +27,51 @@
 
 <!-- ──────────────────── 3D GRAPH CONTRIBUTION ──────────────────── -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,html,css,tailwind,nodejs,express,mongodb,redis,firebase,fastapi,docker,gcp,postman,git,github&theme=dark&perline=10" />
-
 <br/>
-
+<img src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,html,css,tailwind,nodejs,express,mongodb,redis,firebase,fastapi,docker,gcp,postman,git,github&theme=dark&perline=10" />
+<br/><br/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
 </div>
 
 ---
 <br/>
-<!-- ──────────────────── TECH STACK ──────────────────── -->
-
-<div align="center">
-
-## ⚙️ &nbsp; TECH STACK &nbsp; `// the instruments`
-
-<br/>
-
-**AI & ML**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1a4e?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![Gemini](https://img.shields.io/badge/Gemini_2.0-0d0d2b?style=for-the-badge&logo=google&logoColor=4285f4)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-0d0d2b?style=for-the-badge&logo=mongodb&logoColor=00ed64)
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-0d0d2b?style=for-the-badge&logo=google&logoColor=34a853)
-
-<br/>
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,nextjs,html,css&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Backend & Infra**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,rabbitmq,docker,gcp&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Tools & Platforms**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<!-- ──────────────────── PLANET DIVIDER ──────────────────── -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="14" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="18" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="55" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="12" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="18" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="14" />
-
-</div>
-
-<br/>
-
 <!-- ──────────────────── GITHUB STATS ──────────────────── -->
-
 <div align="center">
-
 ## 📡 &nbsp; TELEMETRY &nbsp; `// mission stats`
-
 <br/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan0628&show_icons=true&theme=tokyonight&bg_color=0d0d2b&border_color=1a1a4e&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&hide_border=false&count_private=true&include_all_commits=true" />
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0628&layout=compact&theme=tokyonight&bg_color=0d0d2b&border_color=1a1a4e&title_color=7aa2f7&text_color=c0caf5&hide_border=false&langs_count=8" />
-
 <br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0628&theme=tokyonight&background=0d0d2b&border=1a1a4e&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" />
-
 <br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Aryan0628&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=false" />
-
 </div>
-
 <br/>
-
-<!-- ──────────────────── 3D CONTRIBUTION MAP ──────────────────── -->
-
-<div align="center">
-
-## 🌌 &nbsp; SIGNAL TRACE &nbsp; `// 3D contribution map`
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
-
-<br/>
-
-<!-- FLAT ACTIVITY GRAPH — fallback / secondary view -->
-<details>
-<summary><samp>📈 &nbsp; View flat activity graph</samp></summary>
-<br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan0628&bg_color=0d0d2b&color=7aa2f7&line=1a1a4e&point=bb9af7&area=true&area_color=1a1a4e&hide_border=false&border_color=1a1a4e&custom_title=Commit%20Activity%20Graph" />
-</details>
-
-</div>
-
-<br/>
-
 <!-- ──────────────────── SNAKE ──────────────────── -->
 
 <div align="center">
