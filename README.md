@@ -104,18 +104,6 @@ AI-driven smart city platform bridging citizens, municipal admins, and field wor
 
 ---
 
-### &nbsp; [Civora](https://github.com/Aryan0628) — India Policy Opinion Analysis System
-
-Simulates policy impact on synthetic Indian populations using cognitive modeling for strategic insights. Uses multi-layer cognitive agents to simulate authentic human reactions and decision-making processes.
-
-![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
 ### &nbsp; [Uncluttered](https://github.com/Aryan0628) — High-Performance Threaded Q&A Platform
 
 Modern Q&A application featuring nested discussions, secure authentication, and optimized media handling. High-performance infinite threaded comments powered by optimized Redis caching and pre-computation layers.
@@ -127,6 +115,18 @@ Modern Q&A application featuring nested discussions, secure authentication, and 
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
+
+---
+
+### &nbsp; [Civora](https://github.com/Aryan0628) — India Policy Opinion Analysis System
+
+Simulates policy impact on synthetic Indian populations using cognitive modeling for strategic insights. Uses multi-layer cognitive agents to simulate authentic human reactions and decision-making processes.
+
+![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </div>
 
 ---
