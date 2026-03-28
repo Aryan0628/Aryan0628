@@ -5,32 +5,38 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0f3460&height=200&section=header&text=ARYAN&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=c0caf5&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Explorer&descAlignY=58&descSize=20&descColor=7aa2f7" />
 
 <div align="center">
-<samp>
-✦ &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·
-</samp>
+
+<samp>✦ &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·</samp>
+
+<br/>
 
 <a href="https://github.com/Aryan0628">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Thinking+in+systems,+building+in+code+%F0%9F%9A%80;Full-Stack+%C3%97+AI+%C3%97+Distributed+Systems;From+abstraction+to+execution;Clarity+over+complexity+%E2%9A%A1" alt="Typing SVG" />
 </a>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Aryan0628&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Aryan0628?style=for-the-badge&color=1a1a4e&labelColor=0d0d2b&label=FOLLOWERS&logo=github&logoColor=7aa2f7" />
+
 </div>
 
 ---
+
 <br/>
-
-
 
 <!-- ──────────────────── 3D GRAPH CONTRIBUTION ──────────────────── -->
 <div align="center">
-<br/>
+
 <img src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+
 <br/><br/>
+
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,html,css,tailwind,nodejs,express,mongodb,redis,firebase,fastapi,docker,gcp,postman,git,github&theme=dark&perline=10" />
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -54,12 +60,12 @@
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
 </div>
 
 ---
+
 <br/>
-
-
 
 <!-- ──────────────────── ABOUT ──────────────────── -->
 <div align="left">
@@ -77,15 +83,16 @@ I care about writing code that is technically rigorous, solves real problems, an
 </div>
 
 ---
+
 <br/>
-
-
 
 <!-- ──────────────────── PROJECTS ──────────────────── -->
 <div align="left">
 
-##  &nbsp; Featured Projects
-###  [UrbanFlow](https://github.com/Aryan0628) — The Civic Operating System
+## &nbsp; Featured Projects
+
+### &nbsp; [UrbanFlow](https://github.com/Aryan0628) — The Civic Operating System
+
 AI-driven smart city platform bridging citizens, municipal admins, and field workers. Agentic LangGraph workflows automate grievance triage and resolution across role-based civic panels. Integrated 6 satellite datasets via Google Earth Engine for real-time environmental risk monitoring. Enabled hyper-local gig matching and AI-powered safe route scoring with real-time SOS broadcasting.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -97,7 +104,7 @@ AI-driven smart city platform bridging citizens, municipal admins, and field wor
 
 ---
 
-###  [Civora](https://github.com/Aryan0628) — India Policy Opinion Analysis System
+### &nbsp; [Civora](https://github.com/Aryan0628) — India Policy Opinion Analysis System
 
 Simulates policy impact on synthetic Indian populations using cognitive modeling for strategic insights. Uses multi-layer cognitive agents to simulate authentic human reactions and decision-making processes.
 
@@ -109,7 +116,7 @@ Simulates policy impact on synthetic Indian populations using cognitive modeling
 
 ---
 
-###  [Uncluttered](https://github.com/Aryan0628) — High-Performance Threaded Q&A Platform
+### &nbsp; [Uncluttered](https://github.com/Aryan0628) — High-Performance Threaded Q&A Platform
 
 Modern Q&A application featuring nested discussions, secure authentication, and optimized media handling. High-performance infinite threaded comments powered by optimized Redis caching and pre-computation layers.
 
@@ -123,11 +130,13 @@ Modern Q&A application featuring nested discussions, secure authentication, and 
 </div>
 
 ---
+
 <br/>
+
 <!-- ──────────────────── CONTACT ──────────────────── -->
 <div align="center">
 
-## 🛰️ &nbsp; LET'S CONNECT
+## &nbsp; LET'S CONNECT
 
 <br/>
 
@@ -146,16 +155,16 @@ Modern Q&A application featuring nested discussions, secure authentication, and 
 </div>
 
 <br/><br/>
-```
-"The universe is under no obligation to make sense to you."
-                                            — Neil deGrasse Tyson
+<div align="center">
 
-   Neither is the codebase. Read it anyway.
-```
+"Somewhere, something incredible is waiting to be known."  
+— Carl Sagan
 
+</div>
 <br/>
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="55" />
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="16" />
@@ -165,6 +174,7 @@ Modern Q&A application featuring nested discussions, secure authentication, and 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="14" />
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="45" />
+
 </div>
 
 <br/>
