@@ -268,13 +268,24 @@ A geospatial intelligence dashboard combining safety heatmaps with satellite-dri
 
 <br/>
 
-<!-- ──────────────────── ACTIVITY GRAPH ──────────────────── -->
+<!-- ──────────────────── 3D CONTRIBUTION MAP ──────────────────── -->
 
 <div align="center">
 
-## 🌌 &nbsp; SIGNAL TRACE &nbsp; `// contribution activity`
+## 🌌 &nbsp; SIGNAL TRACE &nbsp; `// 3D contribution map`
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+
+<br/>
+
+<!-- FLAT ACTIVITY GRAPH — fallback / secondary view -->
+<details>
+<summary><samp>📈 &nbsp; View flat activity graph</samp></summary>
+<br/>
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan0628&bg_color=0d0d2b&color=7aa2f7&line=1a1a4e&point=bb9af7&area=true&area_color=1a1a4e&hide_border=false&border_color=1a1a4e&custom_title=Commit%20Activity%20Graph" />
+</details>
 
 </div>
 
@@ -376,6 +387,40 @@ REMAINING PLACEHOLDERS:
    YOUR_LINKEDIN  → your LinkedIn profile handle
    YOUR_EMAIL     → your email address
    YOUR_TWITTER   → your Twitter/X handle
+
+3D CONTRIBUTION GRAPH — create .github/workflows/profile-3d.yml:
+
+   name: GitHub-Profile-3D-Contrib
+   on:
+     schedule: [{ cron: "0 18 * * *" }]
+     workflow_dispatch:
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       name: generate-github-profile-3d-contrib
+       steps:
+         - uses: actions/checkout@v3
+         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+             USERNAME: Aryan0628
+             BACKGROUND_COLOR: "#0d0d2b"
+             SETTING_JSON: |
+               {
+                 "type": "normal",
+                 "utcOffset": 5.5
+               }
+         - uses: crazy-max/ghaction-github-pages@v3
+           with:
+             target_branch: main
+             build_dir: profile-3d-contrib
+             keep_history: true
+             jekyll: false
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   After first run, the image lands at:
+   main/profile-3d-contrib/profile-night-rainbow.svg  ✓ (already linked in README)
 
 SNAKE ANIMATION — create .github/workflows/snake.yml in this repo:
 
