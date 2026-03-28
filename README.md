@@ -59,57 +59,21 @@
 
 ---
 <br/>
-<!-- ──────────────────── GITHUB STATS ──────────────────── -->
-<div align="center">
-## 📡 &nbsp; TELEMETRY &nbsp; `// mission stats`
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan0628&show_icons=true&theme=tokyonight&bg_color=0d0d2b&border_color=1a1a4e&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&hide_border=false&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0628&layout=compact&theme=tokyonight&bg_color=0d0d2b&border_color=1a1a4e&title_color=7aa2f7&text_color=c0caf5&hide_border=false&langs_count=8" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0628&theme=tokyonight&background=0d0d2b&border=1a1a4e&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" />
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Aryan0628&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=false" />
-</div>
-<br/>
 <!-- ──────────────────── SNAKE ──────────────────── -->
-
 <div align="center">
-
 ## 🐍 &nbsp; CONSUMING THE GRID
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan0628/Aryan0628/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan0628/Aryan0628/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Aryan0628/Aryan0628/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
-
 <br/>
-
-<!-- ──────────────────── FINAL STAR FIELD ──────────────────── -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="22" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="16" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="55" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="14" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20" />
-
-</div>
-
-<br/>
-
 <!-- ──────────────────── CONTACT ──────────────────── -->
 
 <div align="center">
 
-## 📻 &nbsp; OPEN FREQUENCY &nbsp; `// let's connect`
+##  &nbsp; LET'S CONNECT &nbsp;
 
 <br/>
 
@@ -117,17 +81,14 @@
   <img src="https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1a4e" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/aryan-gupta-278376313/">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d2b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1a4e" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:aryan072806@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d0d2b?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1a4e" />
 </a>
 &nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-0d0d2b?style=for-the-badge&logo=x&logoColor=c0caf5&labelColor=1a1a4e" />
-</a>
 
 <br/><br/>
 
